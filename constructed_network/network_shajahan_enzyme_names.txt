@@ -1,0 +1,12 @@
+Enzyme No 1 : FucT8
+Enzyme No 2 : ST3GalI
+Enzyme No 3 : Man I-a
+Enzyme No 4 : Man II
+Enzyme No 5 : B4GalT
+Enzyme No 6 : B3GalT
+Enzyme No 7 : MGAT2
+Enzyme No 8 : SiaT
+Enzyme No 9 : ST3GalVI
+Enzyme No 10 : MGAT5
+Enzyme No 11 : MGAT4
+Enzyme No 12 : MGAT1
