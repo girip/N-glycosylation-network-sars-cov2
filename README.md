@@ -9,7 +9,10 @@
 4. Add path to glycan folder provided in this git.
 5. Run infer_from_mspec_covid file from scripts folder. Change the path for using different initial glycans.
 
-To come soon:
-- Scripts for visualization of full and blocked N-glycosylation network.
+## Plot glycosylation network
+1. Run plot_network.m after infer_from_mspec_covid script to generate plot of full network.
+2. To block specific enzyme and replot network, use block_enzyme_and_plot.m script.
 
- <!-- 6. To visualize the network, run the visualization.m after running the infer_from_mpsec_covid script. -->
+## Contructed glycosylation network
+Reconstructed network along with enzyme names are in contructed_network folder.
+Inferred glycans can be downloaded from inferred_glycans in the glycan folder.
